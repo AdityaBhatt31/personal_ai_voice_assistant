@@ -19,7 +19,7 @@ Search replies use a keyless web metasearch and show one relevant result with a 
 
 ## Rebuild the intent model
 
-To regenerate the curated intent examples and train a fresh model:
+ train a fresh model:
 
 ```powershell
 python src/train_model.py
