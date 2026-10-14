@@ -1,0 +1,362 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hello Deva,greeting
+hey there,greeting
+how are you,greeting
+how is it going,greeting
+howdy,greeting
+namaste,greeting
+kaise ho,greeting
+hello assistant,greeting
+hi there,greeting
+good to see you,greeting
+open chrome,open_chrome
+launch chrome,open_chrome
+start chrome,open_chrome
+open my browser,open_chrome
+open google chrome,open_chrome
+launch the browser,open_chrome
+start web browser,open_chrome
+please open chrome,open_chrome
+open browser for me,open_chrome
+go to chrome,open_chrome
+browser kholo,open_chrome
+chrome kholo,open_chrome
+open notepad,open_notepad
+launch notepad,open_notepad
+start notepad,open_notepad
+open text editor,open_notepad
+open a text file,open_notepad
+launch the text editor,open_notepad
+please open notepad,open_notepad
+start the scratchpad,open_notepad
+notepad kholo,open_notepad
+text editor kholo,open_notepad
+open calculator,open_calculator
+launch calculator,open_calculator
+start calculator,open_calculator
+open calc,open_calculator
+open the calculator app,open_calculator
+start math calculator,open_calculator
+please open calculator,open_calculator
+calculator kholo,open_calculator
+calc chalao,open_calculator
+open my calculator,open_calculator
+search the web,web_search
+search for python,web_search
+look up machine learning,web_search
+find information about climate change,web_search
+google python programming,web_search
+search who is the father of computer,web_search
+what is data structures and algorithms,web_search
+who is Ada Lovelace,web_search
+find recent space news,web_search
+look up the history of India,web_search
+search for a recipe for dal,web_search
+tell me about photosynthesis,web_search
+what is the capital of Japan,web_search
+why is the sky blue,web_search
+explain cloud computing,web_search
+search information about solar energy,web_search
+internet par python search karo,web_search
+DSA kya hota hai,web_search
+computer ke father kaun hain,web_search
+mujhe machine learning ke bare mein batao,web_search
+open youtube,open_youtube
+launch youtube,open_youtube
+go to youtube,open_youtube
+open the youtube website,open_youtube
+start youtube,open_youtube
+youtube kholo,open_youtube
+youtube open karo,open_youtube
+take me to youtube,open_youtube
+visit youtube,open_youtube
+open youtube for me,open_youtube
+search youtube for python tutorials,search_youtube
+find videos about drawing on youtube,search_youtube
+search for cooking videos on youtube,search_youtube
+find coding videos on youtube,search_youtube
+look up travel vlogs on youtube,search_youtube
+youtube par python videos dhoondo,search_youtube
+youtube pe cooking search karo,search_youtube
+find a video about space on youtube,search_youtube
+search youtube for guitar lessons,search_youtube
+show me videos about cricket,search_youtube
+find yoga videos on youtube,search_youtube
+search youtube for science experiments,search_youtube
+what time is it,time
+tell me the time,time
+current time,time
+what is the time now,time
+check the clock,time
+time right now,time
+what is the local time,time
+clock batao,time
+abhi kitne baje hain,time
+time kya hua hai,time
+tell me the current time please,time
+can you check the time,time
+what is today's date,date
+tell me the date,date
+what date is it today,date
+current date,date
+show today's date,date
+which day is it today,date
+date today please,date
+aaj ki date kya hai,date
+aaj ka din kya hai,date
+today's date batao,date
+what is the date today,date
+can you tell me today's date,date
+calculate 2 plus 2,calculator
+what is 15 times 4,calculator
+calculate 100 divided by 5,calculator
+multiply 12 by 8,calculator
+what is 50 minus 20,calculator
+add 35 and 47,calculator
+divide 144 by 12,calculator
+calculate 9 times 9,calculator
+what is 10 plus 17,calculator
+subtract 8 from 30,calculator
+calculate 25 multiplied by 4,calculator
+what is 81 divided by 9,calculator
+12 plus 14 kitna hota hai,calculator
+50 ko 5 se divide karo,calculator
+calculate 7 times 6,calculator
+what is 100 minus 33,calculator
+exit,exit
+quit,exit
+goodbye,exit
+bye,exit
+good bye,exit
+stop assistant,exit
+close the assistant,exit
+turn off assistant,exit
+shut down,exit
+end this session,exit
+that's all goodbye,exit
+band karo,exit
+alvida,exit
+stop now,exit
+close Deva,exit
+see you later,exit
+what is the weather in Delhi,weather
+weather forecast for Delhi,weather
+is it raining in Delhi,weather
+tell me the temperature in Delhi,weather
+will it be sunny in Delhi today,weather
+check weather for Delhi,weather
+what is the weather in Mumbai,weather
+weather forecast for Mumbai,weather
+is it raining in Mumbai,weather
+tell me the temperature in Mumbai,weather
+will it be sunny in Mumbai today,weather
+check weather for Mumbai,weather
+what is the weather in London,weather
+weather forecast for London,weather
+is it raining in London,weather
+tell me the temperature in London,weather
+will it be sunny in London today,weather
+check weather for London,weather
+what is the weather in New York,weather
+weather forecast for New York,weather
+is it raining in New York,weather
+tell me the temperature in New York,weather
+will it be sunny in New York today,weather
+check weather for New York,weather
+what is the weather in Tokyo,weather
+weather forecast for Tokyo,weather
+is it raining in Tokyo,weather
+tell me the temperature in Tokyo,weather
+will it be sunny in Tokyo today,weather
+check weather for Tokyo,weather
+mausam kaisa hai Delhi mein,weather
+Mumbai ka weather batao,weather
+weather in Paris,weather
+set an alarm for 6 am,alarm
+wake me up at 6 am,alarm
+alarm for 6 am,alarm
+set my alarm at 6 am,alarm
+please wake me at 6 am,alarm
+set an alarm for 6:30 am,alarm
+wake me up at 6:30 am,alarm
+alarm for 6:30 am,alarm
+set my alarm at 6:30 am,alarm
+please wake me at 6:30 am,alarm
+set an alarm for 7 am,alarm
+wake me up at 7 am,alarm
+alarm for 7 am,alarm
+set my alarm at 7 am,alarm
+please wake me at 7 am,alarm
+set an alarm for 7:15 am,alarm
+wake me up at 7:15 am,alarm
+alarm for 7:15 am,alarm
+set my alarm at 7:15 am,alarm
+please wake me at 7:15 am,alarm
+set an alarm for 7:30 am,alarm
+wake me up at 7:30 am,alarm
+alarm for 7:30 am,alarm
+set my alarm at 7:30 am,alarm
+please wake me at 7:30 am,alarm
+set an alarm for 8 am,alarm
+wake me up at 8 am,alarm
+alarm for 8 am,alarm
+set my alarm at 8 am,alarm
+please wake me at 8 am,alarm
+set an alarm for 8:30 am,alarm
+wake me up at 8:30 am,alarm
+alarm for 8:30 am,alarm
+set my alarm at 8:30 am,alarm
+please wake me at 8:30 am,alarm
+set an alarm for 9 am,alarm
+wake me up at 9 am,alarm
+alarm for 9 am,alarm
+set my alarm at 9 am,alarm
+please wake me at 9 am,alarm
+set an alarm for 10 pm,alarm
+wake me up at 10 pm,alarm
+alarm for 10 pm,alarm
+set my alarm at 10 pm,alarm
+please wake me at 10 pm,alarm
+set an alarm for 11:45 pm,alarm
+wake me up at 11:45 pm,alarm
+alarm for 11:45 pm,alarm
+set my alarm at 11:45 pm,alarm
+please wake me at 11:45 pm,alarm
+set an alarm for 18:30,alarm
+wake me up at 18:30,alarm
+alarm for 18:30,alarm
+set my alarm at 18:30,alarm
+please wake me at 18:30,alarm
+set an alarm for 07:00,alarm
+wake me up at 07:00,alarm
+alarm for 07:00,alarm
+set my alarm at 07:00,alarm
+please wake me at 07:00,alarm
+set an alarm for 5:30 am,alarm
+wake me up at 5:30 am,alarm
+alarm for 5:30 am,alarm
+set my alarm at 5:30 am,alarm
+please wake me at 5:30 am,alarm
+set an alarm for 12 pm,alarm
+wake me up at 12 pm,alarm
+alarm for 12 pm,alarm
+set my alarm at 12 pm,alarm
+please wake me at 12 pm,alarm
+set an alarm in 10 minutes,alarm
+wake me up in 5 minutes,alarm
+alarm after 2 hours,alarm
+set alarm for 20 minutes from now,alarm
+wake me in 1 hour,alarm
+set an alarm for tomorrow at 7 am,alarm
+set an alarm for 6:30 am tomorrow,alarm
+subah 7 baje alarm lagao,alarm
+kal subah 6 baje jagana,alarm
+raat 10 baje ka alarm lagao,alarm
+5 minute baad alarm bajana,alarm
+mujhe 15 minute mein jagao,alarm
+play lo-fi,music
+play some lo-fi music,music
+listen to lo-fi,music
+put on lo-fi songs,music
+start playing lo-fi,music
+play jazz,music
+play some jazz music,music
+listen to jazz,music
+put on jazz songs,music
+start playing jazz,music
+play rock,music
+play some rock music,music
+listen to rock,music
+put on rock songs,music
+start playing rock,music
+play pop,music
+play some pop music,music
+listen to pop,music
+put on pop songs,music
+start playing pop,music
+play classical,music
+play some classical music,music
+listen to classical,music
+put on classical songs,music
+start playing classical,music
+play hip hop,music
+play some hip hop music,music
+listen to hip hop,music
+put on hip hop songs,music
+start playing hip hop,music
+play romantic,music
+play some romantic music,music
+listen to romantic,music
+put on romantic songs,music
+start playing romantic,music
+play workout,music
+play some workout music,music
+listen to workout,music
+put on workout songs,music
+start playing workout,music
+play relaxing,music
+play some relaxing music,music
+listen to relaxing,music
+put on relaxing songs,music
+start playing relaxing,music
+play blues,music
+play some blues music,music
+listen to blues,music
+put on blues songs,music
+start playing blues,music
+play country,music
+play some country music,music
+listen to country,music
+put on country songs,music
+start playing country,music
+play electronic,music
+play some electronic music,music
+listen to electronic,music
+put on electronic songs,music
+start playing electronic,music
+play Hindi,music
+play some Hindi music,music
+listen to Hindi,music
+put on Hindi songs,music
+start playing Hindi,music
+play Punjabi,music
+play some Punjabi music,music
+listen to Punjabi,music
+put on Punjabi songs,music
+start playing Punjabi,music
+play devotional,music
+play some devotional music,music
+listen to devotional,music
+put on devotional songs,music
+start playing devotional,music
+play Arijit Singh,music
+play some Arijit Singh music,music
+listen to Arijit Singh,music
+put on Arijit Singh songs,music
+start playing Arijit Singh,music
+play Taylor Swift,music
+play some Taylor Swift music,music
+listen to Taylor Swift,music
+put on Taylor Swift songs,music
+start playing Taylor Swift,music
+play old Bollywood,music
+play some old Bollywood music,music
+listen to old Bollywood,music
+put on old Bollywood songs,music
+start playing old Bollywood,music
+play Shape of You,music
+play songs by Ed Sheeran,music
+play Tum Hi Ho,music
+play relaxing music for me,music
+mujhe Arijit Singh ke gaane sunao,music
+kuch Hindi music chalao,music
+gaana bajao,music
+koi romantic song play karo,music
+lofi music sunao,music
+play music on youtube,music

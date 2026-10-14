@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+joblib
+fastapi
+uvicorn
+requests
+pymysql
+python-dotenv
+ddgs>=9.0,<10
